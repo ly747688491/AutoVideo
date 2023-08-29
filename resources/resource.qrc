@@ -1,0 +1,18 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/resource">
+    <file>images/LoginImage.jpg</file>
+    <file>images/avatar.jpg</file>
+    <file>images/icon.png</file>
+    <file>images/logo.png</file>
+
+    <file>Icon/accounts_black.svg</file>
+    <file>Icon/accounts_white.svg</file>
+    <file>Icon/baijiahao.jpg</file>
+    <file>Icon/data_black.svg</file>
+    <file>Icon/home_black.svg</file>
+    <file>Icon/people_black.svg</file>
+    <file>Icon/permission_black.svg</file>
+</qresource>
+</RCC>
+

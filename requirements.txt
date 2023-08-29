@@ -1,0 +1,4 @@
+DBUtils==3.0.3
+requests==2.31.0
+
+pyside2~=5.15.2.1
